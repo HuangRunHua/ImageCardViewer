@@ -1,6 +1,8 @@
 # ImageCardViewer
 ![](https://github.com/HuangRunHua/ImageCardViewer/blob/main/appviewer.png)
-一个自定义文件扩展名.imagecard文件的阅读器。
+一个.imagecard文件的阅读器。
+
+> **注意** .imagecard是我自己设定的文件扩展名。
 
 ## 介绍
 ImageCard Viewer支持iOS、iPadOS以及macOS，仅仅具备.imagecard文件的预览功能，并不具备该类型文件的编辑功能。实际上，我也并不想支持编辑功能（手动狗头）。
