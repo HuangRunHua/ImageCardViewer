@@ -20,5 +20,8 @@ ImageCard Viewer支持iOS、iPadOS以及macOS，仅仅具备.imagecard文件的�
 
 > **注意：** 软件并不支持在软件内部打开.imagecard文件
 
+## 创建.imagecard文件
+如果要了解.imagecard编码方式或创建.imagecard文件，请访问[ImageCard File Generator](https://github.com/HuangRunHua/ImageCard-File-Generator)
+
 ## 后记
 如果不出意外的话，我将不会更新这个文档（手动狗头）因为好玩的东西太多了～
