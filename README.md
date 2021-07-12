@@ -6,9 +6,9 @@
 ImageCard Viewer支持iOS、iPadOS以及macOS，仅仅具备.imagecard文件的预览功能，并不具备该类型文件的编辑功能。实际上，我也并不想支持编辑功能（手动狗头）。
 
 ## 安装环境
-Xcode12.0+
-iOS/iPadOS 14.0+
-macOS 11.0+
+- Xcode12.0+
+- iOS/iPadOS 14.0+
+- macOS 11.0+
 
 > 关于Mac版的你可以在Release内找到并下载，iOS/iPadOS版的安装需要提前准备一台Mac并安装好Xcode，因为我并没有发布这款阅读器到App Store的想法（手动狗头）。
 
